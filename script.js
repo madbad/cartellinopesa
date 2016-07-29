@@ -1,16 +1,19 @@
+/*
+zoom 48%
+*/
 var dati ={
 	primopeso:{
-		data:'23/07/2013',
-		ora:'08:50:45',
-		rcd:'42',
-		progressivo:'1936',
-		peso:'17000',
+		data:'28/07/2016',
+		ora:'09:00:21',
+		rcd:'1199',
+		progressivo:'4600',
+		peso:'33220',
 	},
 	secondopeso:{
-		data:'23/07/2013',
-		ora:'10:50:26',
-		progressivo:'1937',
-		peso:'15000',
+		data:'28/07/2016',
+		ora:'09:28:52',
+		progressivo:'4601',
+		peso:'17200',
 	}
 };
 
@@ -137,9 +140,9 @@ list.Small9={
 	h:30,
 }
 
-list.Small6={ //manca
-	x:0,
-	y:0,
+list.Small6={
+	x:1299,
+	y:293,
 	w:14,
 	h:30,
 }
@@ -198,11 +201,11 @@ list.Big2={
 	w:16,
 	h:55,
 }
-list.Big8={ //manca
-	x:0,
-	y:0,
-	w:14,
-	h:30,
+list.Big8={
+	x:2333,
+	y:898,
+	w:16,
+	h:55,
 }
 list.BigKg={
 	x:2436,
@@ -232,7 +235,6 @@ list.BigKg={
 		  ctx.stroke(); 	
 		  line=line+char.h;
 		  //col=col+char.w;
-
 	}
 */
 //Scrivo la parte superiore	
